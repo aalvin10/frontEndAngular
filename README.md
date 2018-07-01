@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+## Baixar o projeto
+
+`git clone git@github.com:aalvin10/frontEndAngular.git`
+
+## Dependências
+
+Execute `npm install` para baixar as dependências do projeto
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
